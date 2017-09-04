@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("hello");
 		System.out.println("as");
 		System.out.println("testtesttest3");
+		
+		String simsim="simsim";
 	}
 
 }
